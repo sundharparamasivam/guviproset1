@@ -5,9 +5,9 @@ for i in range(su):
     a=input()
     lis.append(a)
 co=0
-cou=0
 li1=[]
 for j in lis:
+    cou=0
     if co==0:
         l+=j
         co+=1
